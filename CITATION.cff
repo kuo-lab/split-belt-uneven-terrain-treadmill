@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Supporting material for "A split-belt instrumented
+  treadmill with uneven terrain"
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Seyed Saleh
+    family-names: Hosseini-Yazdi
+    email: sshy110@gmail.com
+    affiliation: University of Calgary
+  - given-names: Arthur
+    name-particle: D.
+    family-names: Kuo
+    email: arthurdkuo@gmail.com
+    affiliation: University of Calgary
+    orcid: 'https://orcid.org/0000-0001-5233-9709'
+repository-code: >-
+  https://github.com/kuo-lab/split-belt-uneven-terrain-treadmill
+abstract: >-
+  Supporting material includes engineering drawings and
+  finite element analysis. Manuscript "A split-belt
+  instrumented treadmill with uneven terrain"
+keywords:
+  - locomotion
+  - biomechanics
+  - force platform
+license: CC-BY-4.0
